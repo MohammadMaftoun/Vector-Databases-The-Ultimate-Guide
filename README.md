@@ -3,7 +3,7 @@
 
 **A curated repository to master high-performance vector databases for AI, semantic search, and large-scale similarity retrieval.**
 
-![vdb]([https://miro.medium.com/v2/resize:fit:1400/1*AEvSVDFW_4VjGTScH3n_Xg.png](https://media.licdn.com/dms/image/v2/D4E12AQGX2VN5jFwZeQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1703693111520?e=2147483647&v=beta&t=irb4VhGqLIK16pkREG-ak7A0DbnQSYTQfFmvTQtZ6TQ))
+![vdb]([https://miro.medium.com/v2/resize:fit:1400/1*AEvSVDFW_4VjGTScH3n_Xg.png])
 
 
 ---

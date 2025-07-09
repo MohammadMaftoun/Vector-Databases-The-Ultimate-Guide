@@ -10,7 +10,7 @@
 
 # 🔍 What Are Vector Databases?
 
-Vector databases are optimized for storing and querying high-dimensional vector embeddings — the backbone of modern AI applications like:
+Vector databases have emerged to handle high-dimensional data that exceed the capabilities of traditional database management systems, and are now tightly integrated with large language models as well as widely applied in modern artificial intelligence systems.the backbone of modern AI applications like:
 
 * 🔗 **RAG (Retrieval-Augmented Generation)**
 * 🤖 **LLM-powered assistants**

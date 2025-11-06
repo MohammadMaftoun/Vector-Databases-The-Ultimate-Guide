@@ -18,7 +18,7 @@ Vector databases have emerged to handle high-dimensional data that surpasses the
 * 🛒 **Recommendation systems**
 * 🧠 **Cognitive search & knowledge graphs**
 
-This repository is your gateway to understanding how to utilize vector search at scale.
+This repository is your gateway to understanding how to employ vector search at scale.
 
 ---
 

@@ -10,7 +10,7 @@
 
 # 🔍 What Are Vector Databases?
 
-Vector databases have emerged to handle high-dimensional data that surpasses the capabilities of traditional database management systems. They are now tightly integrated with large language models and widely applied in modern artificial intelligence systems. The backbone of modern AI applications includes:
+Vector databases have emerged to handle high-dimensional data that surpasses the capabilities of traditional database management systems. They are now tightly integrated with large language models and widely applied in modern artificial intelligence systems. Vector database management systems have emerged as an important component in modern data management, driven by the growing importance for the need to computationally describe rich data such as texts, images and video in various domains such as recommender systems, similarity search, and chatbots. The backbone of modern AI applications includes:
 
 * 🔗 **RAG (Retrieval-Augmented Generation)**
 * 🤖 **LLM-powered assistants**
